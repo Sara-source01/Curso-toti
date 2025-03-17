@@ -44,6 +44,8 @@ O que foi que eu aprendi aqui?
 
 aprendi organizar melhor meus projetos
 
+# Lembrete: Trabalhe de forma mais inteligente, não mais difícil.
+
 
 ## Aula 9
 
